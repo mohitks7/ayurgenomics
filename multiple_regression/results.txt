@@ -1,0 +1,25 @@
+1. Intervals + SpO2 + HeartRate   vs   SelDuration(r-r values)
+   a)Residual sum of squares: 0.00
+   b)Variance score: 0.97
+
+2. Intervals + HeartRate     vs     SelDuration(r-r values) 
+   a)Residual sum of squares: 0.00
+   b)Variance score: 0.97
+
+3. Stethography + ECG + Intervals    vs    SelDuration(r-r values)
+   a)Residual sum of squares: 0.00
+   b)Variance score:0.34
+
+4. Stethography + ECG + Sno + HeartRate     vs     SelDuration(r-r values)
+   a)Residual sum of squares: 0.00
+   b)Variance score: 0.97
+
+5. Stethography + ECG + Intervals + HeartRate + Respiratoryrate + SpO2     vs      SelDuration(r-r values)
+   a)Residual sum of squares: 0.00
+   b)Variance score: 0.97
+
+6. Heartrate + ECG + respiratory rate        vs        SelDuration(r-r values)
+   a)Residual sum of squares: 0.00
+   b)Variance score: 0.97
+
+7.
